@@ -17,3 +17,50 @@ Programs Included:
 More programs coming day-by-day as part of my Python Mastery Plan.
 
 
+#DAY2-PYTHON
+OPERATORS,CONDITIONAL STATEMENTS,LOOPS,FUNCTIONs
+programs included:
+ conditional statement
+ 1.take 3 numbers from the user and print the greatest
+ 2.ask the user for their age if age is<13 'child',age is between13 to 19 teen otherwise adult
+ 3.to check number is divisible by 3  and 5
+ 4.odd or even number finding
+ 5.check if a given character is vowel and consonant
+ 6.create a grade system 90+=A,80-89=B,70-79=c,<70=D
+ 7.given year is a leap year or not
+8.check if a person is eligible for vote
+#----------------------------- LOOPS-------------------------------------------------
+1.print all numbers from 1 to 100
+2.print even numbers between 1 to 50
+3.print multiplication
+4.print factorial
+5.fibonocci series upto n terms
+6.ount the digits in a given number
+7.reverse a given number using a loop
+8.reverse a given string using a loop
+9.sum of digits in a number
+10.pattern
+11.prime numbers between 1 to 100
+12.count number of digits
+#-----------------------------------FUNCTION----------------------------------------
+1.define a function to check wheather a number is even or odd
+2.factorial of a number
+3.given string is palindrome or not
+4.average of 3 averages
+5.prints multiplication tables from 1 to 10
+6.reverse a string
+7.function that counts the words in a sentence
+8.function that returns all vowels in a string
+9.function that returns that sum of all digits in a number
+10.check if a number is prime
+11.armstrong number
+12.loop prints only numbers divisible by both 2 and 3 from 1 to 100
+13.log in page verification using if and else
+
+    
+    
+
+    
+    
+
+
