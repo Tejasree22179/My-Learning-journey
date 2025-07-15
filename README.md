@@ -56,9 +56,15 @@ programs included:
 11.armstrong number
 12.loop prints only numbers divisible by both 2 and 3 from 1 to 100
 13.log in page verification using if and else
-
-    
-    
+Use map() to square numbers
+# DAY 3- PYTHON
+## Day 3: Arguments, Lambda, and Functional Programming
+- Practiced *args, **kwargs, default and keyword arguments
+- Used lambda functions with map(), filter(), and reduce()
+- Each program is commented and organized in Day3_all.py
+    practice programs: 1.greatest elements on the right,2.addition using args,3.display user details like name ,age,course,3.Greet with a default name,4.Program: Lambda to calculate square of a number,
+  5.Lambda to check if number is even,6.Use map() to square numbers,7.Use filter() to keep even numbers,8. Use reduce() to find sum of list,9.Double each value using lambda + map(),10.Filter numbers > 10
+  
 
     
     
