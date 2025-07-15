@@ -16,9 +16,8 @@ Programs Included:
 10.swapping of 2 numbers
 More programs coming day-by-day as part of my Python Mastery Plan.
 
-
-#DAY2-PYTHON
-OPERATORS,CONDITIONAL STATEMENTS,LOOPS,FUNCTIONs
+**#DAY2 PYTHON**
+**OPERATORS,CONDITIONAL STATEMENTS,LOOPS,FUNCTIONS**
 programs included:
  conditional statement
  1.take 3 numbers from the user and print the greatest
