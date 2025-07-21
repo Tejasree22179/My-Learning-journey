@@ -16,8 +16,8 @@ Programs Included:
 10.swapping of 2 numbers
 More programs coming day-by-day as part of my Python Mastery Plan.
 
-**#DAY2 PYTHON**
-**OPERATORS,CONDITIONAL STATEMENTS,LOOPS,FUNCTIONS**
+#DAY2 PYTHON
+#OPERATORS,CONDITIONAL STATEMENTS,LOOPS,FUNCTIONS
 programs included:
  conditional statement
  1.take 3 numbers from the user and print the greatest
@@ -64,14 +64,14 @@ Use map() to square numbers
     practice programs: 1.greatest elements on the right,2.addition using args,3.display user details like name ,age,course,3.Greet with a default name,4.Program: Lambda to calculate square of a number,
   5.Lambda to check if number is even,6.Use map() to square numbers,7.Use filter() to keep even numbers,8. Use reduce() to find sum of list,9.Double each value using lambda + map(),10.Filter numbers > 10
   
-   **DAY 4-PYTHON**
-**DAY 4-LISTS, TUPLES**
+   #DAY 4-PYTHON
+##DAY 4-LISTS, TUPLES
 Here is your Day 4 README.md file for Python (Lists and Tuples). 
-**Today's Focus**:
+###Today's Focus:
 Understanding List and Tuple data structures
 Learning how to access, modify, and manipulate list and tuple elements
 Exploring the differences between List and Tuple
- **Topics Covered**
+  ###Topics Covered
  1. Lists in Python
 
 Creating lists
@@ -86,7 +86,7 @@ sort(), reverse(), count(), index()
 
 Looping through lists
 
-**2. Tuples in Python**
+##2. Tuples in Python
 
 Creating tuples
 
@@ -97,7 +97,7 @@ Tuple methods:
 count(), index()
 
 Looping through tuples
-**practice tasks**
+##practice tasks
 #task 1- create a list of 5 subjects you study
 #2.Add 2 more subjects to list using insert and append
 #3.remove a subject not to study
