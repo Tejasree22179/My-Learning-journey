@@ -17,7 +17,9 @@ Programs Included:
 More programs coming day-by-day as part of my Python Mastery Plan.
 
 #DAY2 PYTHON
+
 #OPERATORS,CONDITIONAL STATEMENTS,LOOPS,FUNCTIONS
+
 programs included:
  conditional statement
  1.take 3 numbers from the user and print the greatest
@@ -57,7 +59,9 @@ programs included:
 13.log in page verification using if and else
 Use map() to square numbers
 # DAY 3- PYTHON
+
 ## Day 3: Arguments, Lambda, and Functional Programming
+
 - Practiced *args, **kwargs, default and keyword arguments
 - Used lambda functions with map(), filter(), and reduce()
 - Each program is commented and organized in Day3_all.py
@@ -65,7 +69,9 @@ Use map() to square numbers
   5.Lambda to check if number is even,6.Use map() to square numbers,7.Use filter() to keep even numbers,8. Use reduce() to find sum of list,9.Double each value using lambda + map(),10.Filter numbers > 10
   
    #DAY 4-PYTHON
+  
 ##DAY 4-LISTS, TUPLES
+
 Here is your Day 4 README.md file for Python (Lists and Tuples). 
 ###Today's Focus:
 Understanding List and Tuple data structures
