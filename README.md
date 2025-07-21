@@ -64,8 +64,56 @@ Use map() to square numbers
     practice programs: 1.greatest elements on the right,2.addition using args,3.display user details like name ,age,course,3.Greet with a default name,4.Program: Lambda to calculate square of a number,
   5.Lambda to check if number is even,6.Use map() to square numbers,7.Use filter() to keep even numbers,8. Use reduce() to find sum of list,9.Double each value using lambda + map(),10.Filter numbers > 10
   
+   **DAY 4-PYTHON**
+**DAY 4-LISTS, TUPLES**
+Here is your Day 4 README.md file for Python (Lists and Tuples). 
+**Today's Focus**:
+Understanding List and Tuple data structures
+Learning how to access, modify, and manipulate list and tuple elements
+Exploring the differences between List and Tuple
+ **Topics Covered**
+ 1. Lists in Python
 
-    
-    
+Creating lists
 
+Indexing and slicing
 
+List methods:
+
+append(), insert(), remove(), pop()
+
+sort(), reverse(), count(), index()
+
+Looping through lists
+
+**2. Tuples in Python**
+
+Creating tuples
+
+Indexing and slicing
+
+Tuple methods:
+
+count(), index()
+
+Looping through tuples
+**practice tasks**
+#task 1- create a list of 5 subjects you study
+#2.Add 2 more subjects to list using insert and append
+#3.remove a subject not to study
+#4.change 2 element
+#5.print subjects one by one
+#6.sort list alphabetically and then reverse  them
+#7.check if maths is present in the list or not
+#8.create a list of numbers and find the max,min,and sum
+#9.count the number of times a value occurs
+#10.using index extract the value
+#------------------------------- TUPLES------------------------------------------
+#1.create a tuple with 4 seasons
+#2.accesing first and last elements
+#3.changing the tuple value lets see what type of error will get
+#4.check if winter exists or not in that
+#5.loop tuple print all the items
+#6.create a tuple with 5 numbers and find the average
+#7.convert list into tuple.
+#8.create a nested tuple.
