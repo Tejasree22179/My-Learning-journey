@@ -14,5 +14,9 @@ Data Types (int, float, str, bool, None)
 Type Casting (int(), float(), str(), bool())
 Basic Input using input()
 some logic based problems
-
-
+# Day 3 - python
+conditional statements if ,
+elif,else and nested if
+loops-for,while loop
+jump statements like
+break,continue and pass
